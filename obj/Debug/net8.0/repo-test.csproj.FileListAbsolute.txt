@@ -1,0 +1,15 @@
+/workspaces/repo-test/bin/Debug/net8.0/repo-test
+/workspaces/repo-test/bin/Debug/net8.0/repo-test.deps.json
+/workspaces/repo-test/bin/Debug/net8.0/repo-test.runtimeconfig.json
+/workspaces/repo-test/bin/Debug/net8.0/repo-test.dll
+/workspaces/repo-test/bin/Debug/net8.0/repo-test.pdb
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.AssemblyInfoInputs.cache
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.AssemblyInfo.cs
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.csproj.CoreCompileInputs.cache
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.sourcelink.json
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.dll
+/workspaces/repo-test/obj/Debug/net8.0/refint/repo-test.dll
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.pdb
+/workspaces/repo-test/obj/Debug/net8.0/repo-test.genruntimeconfig.cache
+/workspaces/repo-test/obj/Debug/net8.0/ref/repo-test.dll
